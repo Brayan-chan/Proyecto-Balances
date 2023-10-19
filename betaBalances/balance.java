@@ -1,5 +1,8 @@
 package betaBalances;
+
 import java.util.Scanner;
+import java.util.Map;
+import java.util.HashMap;
 
 public class balance {
     static Scanner input = new Scanner(System.in);                                       
